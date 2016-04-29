@@ -761,6 +761,11 @@
           "height": 594,
           "width": 851.3660278320312
         }
+      },
+      {
+        "title": "New",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ],
     "reviewer": "Jane Smith"
