@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "blah"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "mike-goodwin",
+    "repo": "owasp-threat-dragon-demo",
+    "branch": "master",
+    "model": "blah"
+  }
+}
