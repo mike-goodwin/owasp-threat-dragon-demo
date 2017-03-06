@@ -560,8 +560,8 @@
               },
               "vertices": [
                 {
-                  "x": 533,
-                  "y": 254
+                  "x": 489,
+                  "y": 342
                 }
               ],
               "id": "75949d2c-0449-4a10-add3-07ac91a0c608",
@@ -570,7 +570,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Query Results",
+                      "text": "Worker Query Results",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -616,8 +616,8 @@
                   "y": 288
                 },
                 {
-                  "x": 485,
-                  "y": 308
+                  "x": 475,
+                  "y": 276
                 }
               ],
               "id": "a61cbe16-7e3f-400c-a0ea-c0695253c6ad",
@@ -820,7 +820,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Results",
+                      "text": "Web App Query\nResults",
                       "font-weight": "400",
                       "font-size": "small"
                     }
