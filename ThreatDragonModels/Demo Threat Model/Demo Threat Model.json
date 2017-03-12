@@ -13,7 +13,7 @@
     ],
     "diagrams": [
       {
-        "title": "Main Request Data Flow",
+        "title": "Main Request Flow",
         "thumbnail": "../public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
