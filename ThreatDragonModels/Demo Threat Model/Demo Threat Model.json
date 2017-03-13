@@ -790,6 +790,7 @@
               "z": 22,
               "hasOpenThreats": false,
               "isEncrypted": true,
+              "isPublicNetwork": false,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
