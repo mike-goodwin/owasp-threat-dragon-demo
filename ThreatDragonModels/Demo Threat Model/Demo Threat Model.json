@@ -1,7 +1,7 @@
 {
   "summary": {
     "title": "Demo Threat Model",
-    "owner": "Mike Goodwin",
+    "owner": "Mike Goodwinx",
     "description": "A sample model of a web application, with a queue-decoupled background process.",
     "id": 0
   },
