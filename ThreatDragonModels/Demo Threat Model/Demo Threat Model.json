@@ -337,8 +337,8 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 115,
-                "y": 231
+                "x": 130,
+                "y": 232
               },
               "target": {
                 "x": 291,
@@ -362,8 +362,8 @@
                 "y": 8
               },
               "target": {
-                "x": 410,
-                "y": 148
+                "x": 420,
+                "y": 174
               },
               "vertices": [
                 {
