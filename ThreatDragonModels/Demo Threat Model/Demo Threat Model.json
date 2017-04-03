@@ -891,11 +891,5 @@
       }
     ],
     "reviewer": "Jane Smith"
-  },
-  "location": {
-    "organisation": "mike-goodwin",
-    "repo": "owasp-threat-dragon-demo",
-    "branch": "master",
-    "model": "Demo Threat Model"
   }
 }
