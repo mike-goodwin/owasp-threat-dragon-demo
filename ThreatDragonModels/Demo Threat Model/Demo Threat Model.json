@@ -16,7 +16,7 @@
     ],
     "diagrams": [
       {
-        "title": "Main Request Data Flowx",
+        "title": "Main Request Data Flow",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
