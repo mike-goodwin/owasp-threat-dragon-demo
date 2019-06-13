@@ -340,11 +340,11 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 130,
-                "y": 232
+                "x": 120,
+                "y": 230
               },
               "target": {
-                "x": 291,
+                "x": 300,
                 "y": 150
               },
               "vertices": [
@@ -361,12 +361,12 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 339,
-                "y": 8
+                "x": 350,
+                "y": 10
               },
               "target": {
-                "x": 420,
-                "y": 174
+                "x": 430,
+                "y": 180
               },
               "vertices": [
                 {
@@ -536,10 +536,10 @@
               "smooth": true,
               "source": {
                 "x": 490,
-                "y": 218
+                "y": 210
               },
               "target": {
-                "x": 674,
+                "x": 680,
                 "y": 180
               },
               "vertices": [
@@ -606,12 +606,12 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 253,
+                "x": 250,
                 "y": 380
               },
               "target": {
-                "x": 516,
-                "y": 454
+                "x": 510,
+                "y": 450
               },
               "vertices": [
                 {
