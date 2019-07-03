@@ -310,17 +310,17 @@
               },
               "position": {
                 "x": 40,
-                "y": 30
+                "y": 29
               },
               "angle": 0,
               "id": "b394f9f7-07ca-42bc-b616-ad77c6fbfcce",
               "z": 7,
               "threats": [],
-              "outOfScope": true,
+              "outOfScope": false,
               "hasOpenThreats": false,
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isOutOfScope"
+                  "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Browser"
